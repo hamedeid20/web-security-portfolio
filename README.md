@@ -44,7 +44,7 @@ Current Portfolio Includes:
 
 | Project | Type | Findings |
 |----------|--------|----------|
-| [Restaurant Ecommerce](projects/Restaurant_Ecommerce_System_Laravel)| Gray Box | In Progress |
+| [Restaurant Ecommerce](https://github.com/SajeebChakraborty/Restaurant_Ecommerce_System_Laravel)| Gray Box | In Progress |
 
 ---
 
